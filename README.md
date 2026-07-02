@@ -51,4 +51,4 @@ Gotowe maszyny wirtualne z zainstalowanym i skonfigurowanym systemem można pobr
 
 *Hasła dostępowe:*
 * **Debian root:** `root` `zaq1@WSX`
-* **Windows / AD:** nie posiada hasła
+* **Windows / AD:** `haslo123!`

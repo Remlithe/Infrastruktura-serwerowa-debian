@@ -43,3 +43,12 @@ Testy integracyjne wykonane na maszynie klienckiej (Windows) potwierdzają:
 * Sukces dołączenia do domeny AD.
 * Dostęp do szyfrowanych udziałów sieciowych SMB oraz firmowego intranetu.
 * Możliwość klonowania repozytoriów Git bezpośrednio z lokalnego serwera Gitea.
+
+## 📦 Środowisko testowe (.ova)
+Gotowe maszyny wirtualne z zainstalowanym i skonfigurowanym systemem można pobrać tutaj:
+* [Pobierz serwer Debian 11 (.ova) - Dysk Google](twój_link_tutaj)
+* [Pobierz stację kliencką Windows 10 (.ova) - Dysk Google](twój_link_tutaj)
+
+*Hasła dostępowe:*
+* **Debian root:** `zaq1@WSX`
+* **Windows / AD:** nie posiada hasła

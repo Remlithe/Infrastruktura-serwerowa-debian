@@ -1,11 +1,11 @@
 # 🏢 Company Intranet & Active Directory Infrastructure
 
-Kompleksowy projekt środowiska klient-serwer opartego na systemach operacyjnych Linux (Debian 11) oraz Windows 10/11. Projekt symuluje w pełni funkcjonalną, bezpieczną sieć firmową (domenę `firma.local`) z centralnym zarządzaniem tożsamością, usługami sieciowymi oraz autorskim systemem kontroli wersji.
+Projekt środowiska klient-serwer opartego na systemach operacyjnych Linux (Debian 11) oraz Windows 10. Projekt symuluje w pełni funkcjonalną, bezpieczną sieć firmową (domenę `firma.local`) z centralnym zarządzaniem tożsamością, usługami sieciowymi oraz autorskim systemem kontroli wersji. Bardziej szczegółowy opis tworzenia środowiska jest w pliku `Projekt_JS.pdf`
 
 ## 🛠️ Wykorzystane Technologie
 
 * **Serwer:** Debian 11 (CLI)
-* **Klient:** Windows 10/11 (32/64-bit)
+* **Klient:** Windows 10 (32-bit)
 * **Zarządzanie domeną:** Samba 4 (Active Directory Domain Controller)
 * **Sieć i bezpieczeństwo:** WireGuard (VPN), UFW (Firewall), ISC-DHCP-Server
 * **Usługi produkcyjne:** Gitea (Git server + SQLite3), Apache2 (Web Server), CUPS (Print Server)

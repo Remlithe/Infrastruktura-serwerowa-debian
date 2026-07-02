@@ -46,9 +46,9 @@ Testy integracyjne wykonane na maszynie klienckiej (Windows) potwierdzają:
 
 ## 📦 Środowisko testowe (.ova)
 Gotowe maszyny wirtualne z zainstalowanym i skonfigurowanym systemem można pobrać tutaj:
-* [Pobierz serwer Debian 11 (.ova) - Dysk Google](twój_link_tutaj)
-* [Pobierz stację kliencką Windows 10 (.ova) - Dysk Google](twój_link_tutaj)
+* [Pobierz serwer Debian 11 (.ova) - Dysk Google](https://drive.google.com/file/d/16cT0Oi0D99xjZVyhngjazhfACWYUMBs9/view?usp=sharing)
+* [Pobierz stację kliencką Windows 10 (.ova) - Dysk Google](https://drive.google.com/file/d/1AwpTntTtLVwXzQG0UrhRcWQLwmZ9O5A8/view?usp=sharing)
 
 *Hasła dostępowe:*
-* **Debian root:** `zaq1@WSX`
+* **Debian root:** `root` `zaq1@WSX`
 * **Windows / AD:** nie posiada hasła

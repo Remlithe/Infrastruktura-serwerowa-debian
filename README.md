@@ -48,6 +48,7 @@ Testy integracyjne wykonane na maszynie klienckiej (Windows) potwierdzają:
 Gotowe maszyny wirtualne z zainstalowanym i skonfigurowanym systemem można pobrać tutaj:
 * [Pobierz serwer Debian 11 (.ova) - Dysk Google](https://drive.google.com/file/d/16cT0Oi0D99xjZVyhngjazhfACWYUMBs9/view?usp=sharing)
 * [Pobierz stację kliencką Windows 10 (.ova) - Dysk Google](https://drive.google.com/file/d/1AwpTntTtLVwXzQG0UrhRcWQLwmZ9O5A8/view?usp=sharing)
+* [Pobierz stację kliencką Windows 10 która łączy się tunelowaniem VPN (Wireguard) (.ova) - Dysk Google]([https://drive.google.com/file/d/1AwpTntTtLVwXzQG0UrhRcWQLwmZ9O5A8/view?usp=sharing](https://drive.google.com/file/d/1kNkodEEaUTjhJ76lnYlbL-02csk9hMvj/view?usp=sharing))
 
 *Hasła dostępowe:*
 * **Debian root:** `root` `zaq1@WSX`
